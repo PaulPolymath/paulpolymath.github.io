@@ -1,2 +1,4 @@
 # paulpolymath.github.io
-Published Blazor - Interactive Diagram for show and tell.
+These are the published Blazor WASM files that github will use to host the website, source code is not included.
+
+
